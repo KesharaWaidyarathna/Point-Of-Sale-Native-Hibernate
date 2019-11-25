@@ -1,4 +1,4 @@
-# Point of Sale system using hibernate <h1>
+# Point of Sale system using Native hibernate <h1>
 
 This the simple pos system where can use in store. This was developed under the layered architecture.
 This system function only stand alone. And also it's required ver low possessing power and requirements.
@@ -21,7 +21,7 @@ simply double click the jara.file then it's run perfectly if you do install abov
 Aouthor was build this system using following technologies and frameworks 
 
 * Java SE
-* Hibernate JPA
+* Native Hibernate
 * JavaFX
 * layered architecture
 
