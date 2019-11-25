@@ -4,7 +4,7 @@ This the simple pos system where can use in store. This was developed under the 
 This system function only stand alone. And also it's required ver low possessing power and requirements.
 
 
-#Prerequisites <h2>
+# Prerequisites <h2>
 
 This system only need java runtime environment and [MySQL](https://dev.mysql.com/downloads/mysql/) database management serveries to run perfectly.
 
@@ -12,7 +12,7 @@ This system only need java runtime environment and [MySQL](https://dev.mysql.com
  Link : [JAVA](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 
-#Installing <h2>
+# Installing <h2>
 
 simply double click the jara.file then it's run perfectly if you do install above installations  
 
